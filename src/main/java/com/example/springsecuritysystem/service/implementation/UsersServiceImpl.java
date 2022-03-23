@@ -25,9 +25,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Set;
 
-/**
- * @author Touhid Hossain
- */
+
 @Service
 public class UsersServiceImpl implements UsersService {
     private final UsersRepository usersRepository;

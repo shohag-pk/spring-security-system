@@ -11,9 +11,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.io.Serializable;
 
-/**
- * @author Touhid Hossain
- */
+
 @Getter
 @Setter
 @AllArgsConstructor

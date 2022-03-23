@@ -18,9 +18,6 @@ import org.springframework.web.server.ResponseStatusException;
 
 import java.util.*;
 
-/**
- * @author Touhid Hossain
- */
 public class CustomTokenEnhancer implements TokenEnhancer {
 
     @Autowired
